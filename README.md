@@ -1,5 +1,7 @@
 # Query String to JSON ![](https://img.shields.io/circleci/project/github/neha-saggam/qs-to-json.svg)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/28f6dacd61e24e7c9014026e29f997b8)](https://app.codacy.com/app/neha-saggam/qs-to-json?utm_source=github.com&utm_medium=referral&utm_content=neha-saggam/qs-to-json&utm_campaign=Badge_Grade_Dashboard)
+
 Library to parse given query string and create a JSON object.
 
 ## Installation
