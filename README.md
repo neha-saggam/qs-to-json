@@ -12,7 +12,7 @@ npm install --save-dev qs-to-json
 
 ## Support
 
-    - Currently, it supports simple query string and an array
+1.  Currently, it supports simple query string and an array
 
 ## Example
 
