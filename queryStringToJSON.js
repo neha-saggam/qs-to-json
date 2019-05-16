@@ -12,7 +12,7 @@ function getKeyValuePair(queryParam) {
 }
 
 function isArrayPresent(params, array) {
-   return params.hasOwnProperty(array)
+   return params.hasOwnProperty(array);
 }
 
 const queryStringToJSON = (queryString) => {
@@ -33,6 +33,6 @@ const queryStringToJSON = (queryString) => {
             params[key] = value;
     }
     return params;
-}
+};
 
 export default queryStringToJSON;
