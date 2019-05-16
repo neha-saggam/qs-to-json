@@ -23,7 +23,7 @@ const queryStringToJSON = (queryString) => {
         const queryParam = validQueryParam;
         const { key, value } = getKeyValuePair(queryParam);
         if(isArray(key)) {
-            const arrayName = key.split("[]")[0];
+            const arrayName = key.split("[]")[0].toString();
             if (!isArrayPresent(params, arrayName)) {
                 params[arrayName] = [];
             }
