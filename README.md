@@ -1,6 +1,6 @@
 # Query String to JSON
 
-![](https://img.shields.io/circleci/project/github/neha-saggam/qs-to-json.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7798c697c4e14194aec01811ea8c69f7)](https://www.codacy.com/app/neha-saggam/qs-to-json?utm_source=github.com&utm_medium=referral&utm_content=neha-saggam/qs-to-json&utm_campaign=Badge_Grade) ![](https://img.shields.io/codacy/coverage/7798c697c4e14194aec01811ea8c69f7.svg)
+![](https://img.shields.io/circleci/project/github/neha-saggam/qs-to-json.svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1abcd6501f6b4213b01c920aa7d8febb)](https://app.codacy.com/gh/neha-saggam/qs-to-json/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/1abcd6501f6b4213b01c920aa7d8febb)](https://app.codacy.com/gh/neha-saggam/qs-to-json/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
 
 Library to parse given _decoded_ query string and create a JSON object.
 
